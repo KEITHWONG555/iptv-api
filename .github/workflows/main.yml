@@ -38,7 +38,7 @@ jobs:
       - name: Install dependecies
         run: pipenv --python 3.14 && pipenv install --deploy
       - name: Update
-        run: pipenv run dev
+        run: pipenv run dev -u config/user_config.ini
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
