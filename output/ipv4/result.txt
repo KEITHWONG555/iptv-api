@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-02 20:47:13,http://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+2026-09-02 21:25:03,http://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=&U=&A=&K=&P=&S=
 
 央视卫视,#genre#
 CCTV1,http://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=&U=&A=&K=&P=&S=
@@ -9,6 +9,7 @@ CCTV3,http://live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8?E=&U=&A=&K=&P=&S=
 CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV4,http://live2.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8?E=&U=&A=&K=&P=&S=
 CCTV5,http://live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV5,http://112.30.73.119:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV5+,http://live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 CCTV6,http://live2.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8?E=&U=&A=&K=&P=&S=
 CCTV7,http://live2.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8?E=&U=&A=&K=&P=&S=
