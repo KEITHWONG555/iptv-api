@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/KEITHWONG555/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1综合.png" group-title="🕘️更新时间",2026-09-02 09:39:45
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1综合.png" group-title="🕘️更新时间",2026-09-02 09:53:50
 http://124.77.202.8:49155/608807420
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1综合.png" group-title="央视",CCTV1综合
 http://124.77.202.8:49155/608807420
@@ -9,14 +9,10 @@ http://74.91.26.218:82/live/cctv1hd.m3u8
 http://124.77.202.8:49155/631780532
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV3综艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV3综艺.png" group-title="央视",CCTV3综艺
 http://124.77.202.8:49155/624878271
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV3综艺" tvg-logo="https://tb.zbds.top/logo/CCTV3.png" group-title="央视",CCTV3综艺
-http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4中文国际.png" group-title="央视",CCTV4中文国际
 http://124.77.202.8:49155/631780421
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV5体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV5体育.png" group-title="央视",CCTV5体育
 http://124.77.202.8:49155/641886683
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV5体育" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="央视",CCTV5体育
-http://112.30.73.119:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV5+体育赛事" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV5+体育赛事.png" group-title="央视",CCTV5+体育赛事
 http://124.77.202.8:49155/641886773
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV6电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV6电影.png" group-title="央视",CCTV6电影
@@ -39,8 +35,6 @@ http://124.77.202.8:49155/673168185
 http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV13新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV13新闻.png" group-title="央视",CCTV13新闻
 http://124.77.202.8:49155/608807423
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV13新闻" tvg-logo="https://tb.zbds.top/logo/CCTV13.png" group-title="央视",CCTV13新闻
-http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV14少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV14少儿.png" group-title="央视",CCTV14少儿
 http://124.77.202.8:49155/624878440
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV15音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV15音乐.png" group-title="央视",CCTV15音乐
