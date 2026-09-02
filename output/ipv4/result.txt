@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-02 21:25:03,http://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+2026-09-02 21:44:48,http://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=&U=&A=&K=&P=&S=
 
 央视卫视,#genre#
 CCTV1,http://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=&U=&A=&K=&P=&S=
@@ -11,6 +11,7 @@ CCTV4,http://live2.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8?E=&U=&A=&K=&P=&S=
 CCTV5,http://live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8?E=&U=&A=&K=&P=&S=
 CCTV5,http://112.30.73.119:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV5+,http://live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 CCTV6,http://live2.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8?E=&U=&A=&K=&P=&S=
 CCTV7,http://live2.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8?E=&U=&A=&K=&P=&S=
 CCTV8,http://live2.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8?E=&U=&A=&K=&P=&S=
@@ -43,6 +44,7 @@ CGTN-俄语,http://live2.rxip.sc96655.com/live/ey_2000.m3u8?E=&U=&A=&K=&P=&S=
 东方卫视,http://live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 浙江卫视,http://live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 江苏卫视,http://live2.rxip.sc96655.com/live/jswsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 四川卫视,http://live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -59,8 +61,8 @@ CGTN-俄语,http://live2.rxip.sc96655.com/live/ey_2000.m3u8?E=&U=&A=&K=&P=&S=
 湖北卫视,http://live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 吉林卫视,http://live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 江西卫视,http://live2.rxip.sc96655.com/live/jxwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+江西卫视,http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://live2.rxip.sc96655.com/live/szwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 辽宁卫视,http://live2.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8?E=&U=&A=&K=&P=&S=
 山东卫视,http://live2.rxip.sc96655.com/live/sdwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 山西卫视,http://live2.rxip.sc96655.com/live/sxws42_4000.m3u8?E=&U=&A=&K=&P=&S=
@@ -202,6 +204,7 @@ CHC家庭影院,http://live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E
 蒲江综合,http://live2.rxip.sc96655.com/live/pjxw_4000.m3u8?E=&U=&A=&K=&P=&S=
 普格综合,http://live2.rxip.sc96655.com/live/pgt_4000.m3u8?E=&U=&A=&K=&P=&S=
 青川综合,http://live2.rxip.sc96655.com/live/qcxwzhH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 青神综合,http://live2.rxip.sc96655.com/live/qszh_2000.m3u8?E=&U=&A=&K=&P=&S=
 渠县新闻,http://live2.rxip.sc96655.com/live/qxxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
 仁和新闻,http://live2.rxip.sc96655.com/live/rhxwH264_2000.m3u8?E=&U=&A=&K=&P=&S=
