@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/KEITHWONG555/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1.png" group-title="🕘️更新时间",2026-09-02 21:25:03
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1.png" group-title="🕘️更新时间",2026-09-02 21:44:48
 #EXTVLCOPT:http-user-agent=KK12
 http://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1.png" group-title="央视卫视",CCTV1
@@ -29,6 +29,9 @@ http://112.30.73.119:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV5+.png" group-title="央视卫视",CCTV5+
 #EXTVLCOPT:http-user-agent=KK12
 http://live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV5+" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="央视卫视",CCTV5+
+#EXTVLCOPT:http-user-agent=KK12
+https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV6.png" group-title="央视卫视",CCTV6
 #EXTVLCOPT:http-user-agent=KK12
 http://live2.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8?E=&U=&A=&K=&P=&S=
@@ -125,6 +128,9 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" group-title="央视卫视",浙江卫视
 #EXTVLCOPT:http-user-agent=KK12
 http://live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://tb.zbds.top/logo/浙江卫视.png" group-title="央视卫视",浙江卫视
+#EXTVLCOPT:http-user-agent=KK12
+http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" group-title="央视卫视",江苏卫视
 #EXTVLCOPT:http-user-agent=KK12
 http://live2.rxip.sc96655.com/live/jswsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
@@ -173,12 +179,12 @@ http://live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江西卫视.png" group-title="央视卫视",江西卫视
 #EXTVLCOPT:http-user-agent=KK12
 http://live2.rxip.sc96655.com/live/jxwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://tb.zbds.top/logo/江西卫视.png" group-title="央视卫视",江西卫视
+#EXTVLCOPT:http-user-agent=KK12
+http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="央视卫视",深圳卫视
 #EXTVLCOPT:http-user-agent=KK12
 http://live2.rxip.sc96655.com/live/szwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://tb.zbds.top/logo/深圳卫视.png" group-title="央视卫视",深圳卫视
-#EXTVLCOPT:http-user-agent=KK12
-http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png" group-title="央视卫视",辽宁卫视
 #EXTVLCOPT:http-user-agent=KK12
 http://live2.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8?E=&U=&A=&K=&P=&S=
@@ -590,6 +596,9 @@ http://live2.rxip.sc96655.com/live/pgt_4000.m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-id="青川新闻综合" tvg-name="青川综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青川综合.png" group-title="四川地方台",青川综合
 #EXTVLCOPT:http-user-agent=KK12
 http://live2.rxip.sc96655.com/live/qcxwzhH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+#EXTINF:-1 tvg-id="青川新闻综合" tvg-name="青川综合" tvg-logo="https://tb.zbds.top/logo/青川综合.png" group-title="四川地方台",青川综合
+#EXTVLCOPT:http-user-agent=KK12
+http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 #EXTINF:-1 tvg-id="青神综合" tvg-name="青神综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青神综合.png" group-title="四川地方台",青神综合
 #EXTVLCOPT:http-user-agent=KK12
 http://live2.rxip.sc96655.com/live/qszh_2000.m3u8?E=&U=&A=&K=&P=&S=
