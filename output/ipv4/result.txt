@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-03 10:32:40,https://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+2026-09-03 11:10:43,https://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=&U=&A=&K=&P=&S=
 
 央视卫视,#genre#
 CCTV1,https://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=&U=&A=&K=&P=&S=
@@ -34,6 +34,7 @@ CCTV12,http://124.77.202.8:49155/673168185
 CCTV12,http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV13,https://live2.rxip.sc96655.com/live/CCTV-xw_4000.m3u8?E=&U=&A=&K=&P=&S=
 CCTV13,http://124.77.202.8:49155/608807423
+CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV14,https://live2.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8?E=&U=&A=&K=&P=&S=
 CCTV14,http://124.77.202.8:49155/624878440
 CCTV15,https://live2.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8?E=&U=&A=&K=&P=&S=
@@ -42,8 +43,8 @@ CCTV16,https://live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8?E=&U=&A=&K=&P=&S=
 CCTV16-4k,https://live2.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8?E=&U=&A=&K=&P=&S=
 CCTV17,https://live2.rxip.sc96655.com/live/CCTV-17_4000.m3u8?E=&U=&A=&K=&P=&S=
 CCTV17,http://124.77.202.8:49155/673168256
-CCTV17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV4K,https://live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8?E=&U=&A=&K=&P=&S=
 CETV1,https://live2.rxip.sc96655.com/live/CETV-1H264_4000.m3u8?E=&U=&A=&K=&P=&S=
 CETV1,http://124.77.202.8:49155/923287154
@@ -67,6 +68,7 @@ CGTN-俄语,http://124.77.202.8:49155/609006446
 东方卫视,http://124.77.202.8:49155/651632648
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 浙江卫视,https://live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 江苏卫视,https://live2.rxip.sc96655.com/live/jswsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 江苏卫视,http://124.77.202.8:49155/623899368
 四川卫视,https://live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
