@@ -1,0 +1,36 @@
+name: 'Update schedule'
+
+on:
+  workflow_dispatch:
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set branch name
+        id: vars
+        run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ env.BRANCH_NAME }}
+      - name: Run with setup-python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - name: Install pipenv
+        run: pip3 install --user pipenv
+      - name: Install dependencies
+        run: pipenv --python 3.11 && pipenv install --deploy
+      - name: Update
+        run: pipenv run dev -u config/user_config.ini
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          if ! git diff --staged --quiet; then
+            git commit -m "Github Action Auto Updated"
+            git push --force
+          fi
