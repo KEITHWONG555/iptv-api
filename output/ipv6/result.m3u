@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/KEITHWONG555/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1.png" group-title="🕘️更新时间",2026-09-07 15:09:36
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1.png" group-title="🕘️更新时间",2026-09-07 15:15:06
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=1745bf6d0266940b295cdf2f71f77173a9b1161d66940aa9f2817ca7ac7a53a1b5d9a8905bbdfab5cbf24dabcab04e2c12c15d23ff92cb069a44c8b383bb5545
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1.png" group-title="央视",CCTV1
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=1745bf6d0266940b295cdf2f71f77173a9b1161d66940aa9f2817ca7ac7a53a1b5d9a8905bbdfab5cbf24dabcab04e2c12c15d23ff92cb069a44c8b383bb5545
@@ -249,8 +249,6 @@ http://222.128.55.152:9080/live/dwq.m3u8
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=33fd1539209d104206258df321f7f54cb9be7794ffcb5e70344f18c42b5f5e8ddfe9acd06f5edc9f2c61ee3fb190f6dec22faf8f4ed5edaecdf70bd492f407f5
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=5ce3c673b425f71371b3444ea4b3aa07b5fc583ba368f3f1dff7f8ee8dc71a48567d273c02a3e4673d7b8a8c7cb42b94019bef5c3978ba0e47f101a26409d459
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安多卫视.png" group-title="卫视",安多卫视
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" group-title="卫视",安徽卫视
@@ -281,12 +279,8 @@ http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=b0b653612851b64ab850c51685e70f
 https://srs.iyb983.cn:443/video/CYS/index.m3u8
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/延边卫视.png" group-title="卫视",延边卫视
 https://srs.iyb983.cn/video/CYS/index.m3u8
-#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="卫视",延边卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新疆卫视.png" group-title="卫视",新疆卫视
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=ae78a38a83f0755a5b3249f9ebb9fb61dc12ad0432a0eb187aa7f7e4246192e872612fb5c1cc075f780936b24c80e3f71f18187afbdedf00d77427261f32032d
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="卫视",新疆卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" group-title="卫视",江苏卫视
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=90811ab4af780113b34e1f80d7f8a31555ac251451b7fc3e1902ebf180d5d0c4c58bb7400533057efa22e2af467c48bdafc62493635f8b3493691a4e5cd9422e
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" group-title="卫视",江苏卫视
@@ -309,8 +303,6 @@ http://139.224.111.181:3000/783847495
 http://124.77.202.8:49155/783847495
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="卫视",河北卫视
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=9cde8a84a5baccd1f5dcb977583435c10c09d25e5da547245abde5bf589709c46bf25a56ea7ebda64a9c8033d4d58077f97bb32142aca6be1325428d33a9262e
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="卫视",河北卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="卫视",河南卫视
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=690ef9951d2ab64c797f3f95e18b36dd2189d8c01dece2b7235281e663d5a2762209285baa3e846f319e8d811e36f2fc16b80095eee5a7c429d0ded7db22b8c1
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="卫视",河南卫视
@@ -395,8 +387,6 @@ http://124.77.202.8:49155/738910838
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=ad07847ceb1f2dbb6f60ec3731fc72e8d1735aae7c23cc683c28339418cc7b6f9fbb586128a0c12029b08f90bdb3cad546782d08ddb6200d9616f2e262d418a2
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青海卫视.png" group-title="卫视",青海卫视
 https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视",青海卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=a1abe33180cf89b6cb5de845dcba651f7b186f5aba57820a77e7c1e18370c577148df52531bf43f9cb46325a514e071a4d16ecfb569c392b06841b71ed335783
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
@@ -409,8 +399,6 @@ http://124.77.202.8:49155/738906901
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=b68155ce37f25bc76cdd216663ac31b0bdc4c22fbbcf91880a5a871f6add5fb6313a7ea88dfc24c72c4a93c9d79eaf8355fa0900ef05b25a1e53e511dd7fe53337059cc9c8e0c381660f916e5cc55d3f
 #EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="NewTV精品体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV精品体育.png" group-title="体育",NewTV精品体育
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=7b1b206db41d4064ee1ab1bec9aa987dc01abd76e48cfa8868d244f23ccb19fb138dc824792540b8e54b1be872cb8faa
-#EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="NewTV精品体育" tvg-logo="https://tb.zbds.top/logo/精品体育.png" group-title="体育",NewTV精品体育
-https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四海钓鱼.png" group-title="体育",四海钓鱼
 http://39.107.95.182:3000/637444975
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四海钓鱼.png" group-title="体育",四海钓鱼
@@ -427,8 +415,6 @@ http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=3bcfd42f5ab3b4c3569fffab257999
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=9c6a1ab729d3adc6e2f5ba338bda07533a5e6402d30d0021b54cf5116460e592f234ef386fbd044a8f22a6488b34140fa9e859ad2fe8588d151c2a9514478704366c4fae42757eda1081361b5ddf5a89
 #EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="精品体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/精品体育.png" group-title="体育",精品体育
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=2f2cdd16ba909010c254e45bc9ed3795c597757cf3557b0e0a9cdd120298b9ec6ac5c0a488be31e23d7178ecd86c18c1bcb2f01ef4f0ced57b5a4fa94db584d6
-#EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="精品体育" tvg-logo="https://tb.zbds.top/logo/精品体育.png" group-title="体育",精品体育
-https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="体育",风云足球
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=4a400d606055f433000c054e26d0d809b99b802735cb0ed9c6359d58c797ab85c9198991855f5e572adfdf23b000ec419223a405b6d5bf675a80e3305ba6725c
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/高尔夫网球.png" group-title="体育",高尔夫网球
@@ -499,8 +485,6 @@ http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 #EXTINF:-1 tvg-id="新沂新闻" tvg-name="新沂新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新沂新闻.png" group-title="新闻",新沂新闻
 http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd
-#EXTINF:-1 tvg-id="新沂新闻" tvg-name="新沂新闻" tvg-logo="https://tb.zbds.top/logo/新沂新闻.png" group-title="新闻",新沂新闻
-http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 #EXTINF:-1 tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新闻综合.png" group-title="新闻",新闻综合
 https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 #EXTINF:-1 tvg-id="无锡新闻综合" tvg-name="无锡新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无锡新闻综合.png" group-title="新闻",无锡新闻综合
@@ -637,8 +621,6 @@ http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708
 http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
 #EXTINF:-1 tvg-id="无锡娱乐" tvg-name="无锡娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无锡娱乐.png" group-title="综艺",无锡娱乐
 http://stream.thmz.com/wxtv2/sd/live.m3u8
-#EXTINF:-1 tvg-id="无锡娱乐" tvg-name="无锡娱乐" tvg-logo="https://tb.zbds.top/logo/无锡娱乐.png" group-title="综艺",无锡娱乐
-https://stream.thmz.com/wxtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="淮安影院娱乐" tvg-name="淮安影院娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/淮安影院娱乐.png" group-title="综艺",淮安影院娱乐
 http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
 #EXTINF:-1 tvg-id="淮安影院娱乐" tvg-name="淮安影院娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/淮安影院娱乐.png" group-title="综艺",淮安影院娱乐
@@ -753,8 +735,6 @@ http://stream.thmz.com/wxtv5/playlist.m3u8
 http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
 #EXTINF:-1 tvg-id="无锡经济" tvg-name="无锡经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无锡经济.png" group-title="财经",无锡经济
 http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
-#EXTINF:-1 tvg-id="无锡经济" tvg-name="无锡经济" tvg-logo="https://tb.zbds.top/logo/无锡经济.png" group-title="财经",无锡经济
-https://stream.thmz.com/wxtv5/playlist.m3u8
 #EXTINF:-1 tvg-id="浙江经济" tvg-name="浙江经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江经济.png" group-title="财经",浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 #EXTINF:-1 tvg-id="浙江经济" tvg-name="浙江经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江经济.png" group-title="财经",浙江经济
@@ -775,8 +755,6 @@ https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 https://res.cctvnews.cctv.com/video/1005/videos/2026/08/26/154215643540121600438011005/17b3c33fe8f940218ffcc9ef17c06fb1-4.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN纪录.png" group-title="纪录",CGTN纪录
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://tb.zbds.top/logo/CGTN纪录.png" group-title="纪录",CGTN纪录
-https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-id="NewTV精品纪录" tvg-name="NewTV精品纪录" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV精品纪录.png" group-title="纪录",NewTV精品纪录
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=d709fe7d6f4c5eb45e81df18298daf7e86e0460eeb014561315ec3b9e1b7414252225f01049a1926a8c971bcdc1c8517f6f660dc54e20639d659f86d14696859
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://www.xn--rgv465a.top/tvlogo/世界地理.png" group-title="纪录",世界地理
@@ -817,8 +795,6 @@ https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&tx
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=ae97036d0d8a7ab12ae0d74fec0435c533778603a4f303a466beaf6bd010549ce280c1c1868217b1106023499e82c2971d63c923bd7c275ea909a4da9ffe8560
 #EXTINF:-1 tvg-id="亳州农村" tvg-name="亳州农村" tvg-logo="https://www.xn--rgv465a.top/tvlogo/亳州农村.png" group-title="农业",亳州农村
 http://zbbf2.ahbztv.com/live/418.m3u8
-#EXTINF:-1 tvg-id="亳州农村" tvg-name="亳州农村" tvg-logo="https://tb.zbds.top/logo/亳州农村.png" group-title="农业",亳州农村
-http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
 #EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北农民.png" group-title="农业",河北农民
 https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 #EXTINF:-1 tvg-id="银河农业致富" tvg-name="银河农业致富" tvg-logo="https://www.xn--rgv465a.top/tvlogo/银河农业致富.png" group-title="农业",银河农业致富
@@ -869,8 +845,6 @@ http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
 http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
 #EXTINF:-1 tvg-id="无锡生活" tvg-name="无锡生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无锡生活.png" group-title="生活",无锡生活
 http://stream.thmz.com/wxtv4/sd/live.m3u8
-#EXTINF:-1 tvg-id="无锡生活" tvg-name="无锡生活" tvg-logo="https://tb.zbds.top/logo/无锡生活.png" group-title="生活",无锡生活
-https://stream.thmz.com/wxtv4/playlist.m3u8
 #EXTINF:-1 tvg-id="福州生活" tvg-name="福州生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福州生活.png" group-title="生活",福州生活
 http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-id="苏州文化生活" tvg-name="苏州文化生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/苏州文化生活.png" group-title="生活",苏州文化生活
@@ -989,8 +963,6 @@ http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江钱江频道.png" group-title="地方台",浙江钱江频道
 http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江频道" tvg-logo="https://tb.zbds.top/logo/浙江钱江都市.png" group-title="地方台",浙江钱江频道
-http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 #EXTINF:-1 tvg-id="湖州公共民生" tvg-name="湖州公共民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖州公共民生.png" group-title="地方台",湖州公共民生
 http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 #EXTINF:-1 tvg-id="烟台公共" tvg-name="烟台公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/烟台公共.png" group-title="地方台",烟台公共
@@ -1021,8 +993,6 @@ http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96
 http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
 #EXTINF:-1 tvg-id="营山电视台" tvg-name="营山电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/营山电视台.png" group-title="地方台",营山电视台
 http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
-#EXTINF:-1 tvg-id="营山电视台" tvg-name="营山电视台" tvg-logo="https://tb.zbds.top/logo/营山电视台.png" group-title="地方台",营山电视台
-http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 #EXTINF:-1 tvg-id="萧山新闻综合" tvg-name="萧山综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/萧山综合.png" group-title="地方台",萧山综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1 tvg-id="象山新闻综合" tvg-name="象山综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/象山综合.png" group-title="地方台",象山综合
@@ -1037,8 +1007,6 @@ https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="钱江都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/钱江都市.png" group-title="地方台",钱江都市
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="钱江都市" tvg-logo="https://tb.zbds.top/logo/浙江钱江都市.png" group-title="地方台",钱江都市
-http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 #EXTINF:-1 tvg-id="银河掼蛋频道" tvg-name="银河掼蛋频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/银河掼蛋频道.png" group-title="地方台",银河掼蛋频道
 http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=473881b14111435f40d89b05e57280e63fdf32936b869770b145d41d7c041c109eca3a3c6c06ff1c90fd32223aba0aad4d646aaab34883c2d60e416ffcd9cd3b
 #EXTINF:-1 tvg-id="银河精品综合" tvg-name="银河精品综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/银河精品综合.png" group-title="地方台",银河精品综合
@@ -1471,8 +1439,6 @@ http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江钱江.png" group-title="其他",浙江钱江
 http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江" tvg-logo="https://tb.zbds.top/logo/浙江钱江都市.png" group-title="其他",浙江钱江
-http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 #EXTINF:-1 tvg-id="湖南张家界天门山西线玻璃栈道" tvg-name="湖南张家界天门山西线玻璃栈道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南张家界天门山西线玻璃栈道.png" group-title="其他",湖南张家界天门山西线玻璃栈道
 https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
 #EXTINF:-1 tvg-id="湖南张家界宝峰湖" tvg-name="湖南张家界宝峰湖" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南张家界宝峰湖.png" group-title="其他",湖南张家界宝峰湖

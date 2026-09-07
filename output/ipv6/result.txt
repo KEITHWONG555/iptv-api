@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-07 15:09:36,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=1745bf6d0266940b295cdf2f71f77173a9b1161d66940aa9f2817ca7ac7a53a1b5d9a8905bbdfab5cbf24dabcab04e2c12c15d23ff92cb069a44c8b383bb5545
+2026-09-07 15:15:06,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=1745bf6d0266940b295cdf2f71f77173a9b1161d66940aa9f2817ca7ac7a53a1b5d9a8905bbdfab5cbf24dabcab04e2c12c15d23ff92cb069a44c8b383bb5545
 
 央视,#genre#
 CCTV1,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=1745bf6d0266940b295cdf2f71f77173a9b1161d66940aa9f2817ca7ac7a53a1b5d9a8905bbdfab5cbf24dabcab04e2c12c15d23ff92cb069a44c8b383bb5545
@@ -128,7 +128,6 @@ CCTV-4K,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=7fb1c7229bad500e188405
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 天津卫视,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=33fd1539209d104206258df321f7f54cb9be7794ffcb5e70344f18c42b5f5e8ddfe9acd06f5edc9f2c61ee3fb190f6dec22faf8f4ed5edaecdf70bd492f407f5
 宁夏卫视,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=5ce3c673b425f71371b3444ea4b3aa07b5fc583ba368f3f1dff7f8ee8dc71a48567d273c02a3e4673d7b8a8c7cb42b94019bef5c3978ba0e47f101a26409d459
-宁夏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 安徽卫视,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=065a3d80a9c46e495fc7234d3e69fff0884f8252c505e836543efa9bc36cf0bba0965cb7be631d576c0483d2b1e077e04fc0189720a2cc820970a7a38fbf8d25
 山东卫视,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=bacea50f4dec99d44b5a796258c4f6ce226bfdc6940375ec0295c49de77a919b5e5544be0539bc528d8571ecd338d1e3a5867fba1e2f53fc193d703115200d16
@@ -144,9 +143,7 @@ CCTV-4K,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=7fb1c7229bad500e188405
 广西卫视,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=b0b653612851b64ab850c51685e70f73f035afe54e603acbf868fb85a52767a438516a9b0b0ca393e06430e493d9b480049354fb05bdbf564fd8b70351fdeba5
 延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
-延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 新疆卫视,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=ae78a38a83f0755a5b3249f9ebb9fb61dc12ad0432a0eb187aa7f7e4246192e872612fb5c1cc075f780936b24c80e3f71f18187afbdedf00d77427261f32032d
-新疆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 江苏卫视,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=90811ab4af780113b34e1f80d7f8a31555ac251451b7fc3e1902ebf180d5d0c4c58bb7400533057efa22e2af467c48bdafc62493635f8b3493691a4e5cd9422e
 江苏卫视,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=1780ea725fb08e0ce7099e1926536bc0ff879971819e850442253f719258469fa3c817526e75bee866309410323dce6f260b34805c46b9265e85921feb507062
 江苏卫视,http://39.107.95.182:3000/623899368
@@ -158,7 +155,6 @@ CCTV-4K,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=7fb1c7229bad500e188405
 江西卫视,http://139.224.111.181:3000/783847495
 江西卫视,http://124.77.202.8:49155/783847495
 河北卫视,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=9cde8a84a5baccd1f5dcb977583435c10c09d25e5da547245abde5bf589709c46bf25a56ea7ebda64a9c8033d4d58077f97bb32142aca6be1325428d33a9262e
-河北卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 河南卫视,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=690ef9951d2ab64c797f3f95e18b36dd2189d8c01dece2b7235281e663d5a2762209285baa3e846f319e8d811e36f2fc16b80095eee5a7c429d0ded7db22b8c1
 河南卫视,http://39.107.95.182:3000/790187291
 河南卫视,http://139.224.111.181:3000/790187291
@@ -201,7 +197,6 @@ CCTV-4K,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=7fb1c7229bad500e188405
 陕西卫视,http://124.77.202.8:49155/738910838
 青海卫视,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=ad07847ceb1f2dbb6f60ec3731fc72e8d1735aae7c23cc683c28339418cc7b6f9fbb586128a0c12029b08f90bdb3cad546782d08ddb6200d9616f2e262d418a2
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
-青海卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 黑龙江卫视,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=a1abe33180cf89b6cb5de845dcba651f7b186f5aba57820a77e7c1e18370c577148df52531bf43f9cb46325a514e071a4d16ecfb569c392b06841b71ed335783
 黑龙江卫视,http://39.107.95.182:3000/738906901
 黑龙江卫视,http://139.224.111.181:3000/738906901
@@ -210,7 +205,6 @@ CCTV-4K,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=7fb1c7229bad500e188405
 体育,#genre#
 NewTV欢乐棋牌,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=b68155ce37f25bc76cdd216663ac31b0bdc4c22fbbcf91880a5a871f6add5fb6313a7ea88dfc24c72c4a93c9d79eaf8355fa0900ef05b25a1e53e511dd7fe53337059cc9c8e0c381660f916e5cc55d3f
 NewTV精品体育,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=7b1b206db41d4064ee1ab1bec9aa987dc01abd76e48cfa8868d244f23ccb19fb138dc824792540b8e54b1be872cb8faa
-NewTV精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 四海钓鱼,http://39.107.95.182:3000/637444975
 四海钓鱼,http://139.224.111.181:3000/637444975
 四海钓鱼,http://124.77.202.8:49155/637444975
@@ -219,7 +213,6 @@ NewTV精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf052
 睛彩篮球,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=3bcfd42f5ab3b4c3569fffab2579997c1118c9dc1aac0fae8e796b6543a70a72b4cd11a668e98dcfe5b81c7befefc10a3acd41de4b8e1c850f59c3a24457124f
 睛彩篮球,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=9c6a1ab729d3adc6e2f5ba338bda07533a5e6402d30d0021b54cf5116460e592f234ef386fbd044a8f22a6488b34140fa9e859ad2fe8588d151c2a9514478704366c4fae42757eda1081361b5ddf5a89
 精品体育,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=2f2cdd16ba909010c254e45bc9ed3795c597757cf3557b0e0a9cdd120298b9ec6ac5c0a488be31e23d7178ecd86c18c1bcb2f01ef4f0ced57b5a4fa94db584d6
-精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 风云足球,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=4a400d606055f433000c054e26d0d809b99b802735cb0ed9c6359d58c797ab85c9198991855f5e572adfdf23b000ec419223a405b6d5bf675a80e3305ba6725c
 高尔夫网球,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=9167af4c8c16920398da5d5ab143a0b3966ddf500102573647336c5b1f3169306cf2952b7f08478ebfb7c13531b48087e54bf451f40d63dfab0917743bd01ab6
 
@@ -259,7 +252,6 @@ NewTV精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf052
 文成新闻综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 新昌新闻综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd
-新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
@@ -332,7 +324,6 @@ NewTV精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf052
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
-无锡娱乐,https://stream.thmz.com/wxtv2/playlist.m3u8
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8
 清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
@@ -394,7 +385,6 @@ NewTV家庭剧场,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=bebe0d247072
 无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
-无锡经济,https://stream.thmz.com/wxtv5/playlist.m3u8
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
 浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -407,7 +397,6 @@ NewTV家庭剧场,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=bebe0d247072
 
 纪录,#genre#
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 NewTV精品纪录,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=d709fe7d6f4c5eb45e81df18298daf7e86e0460eeb014561315ec3b9e1b7414252225f01049a1926a8c971bcdc1c8517f6f660dc54e20639d659f86d14696859
 世界地理,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=b26025928a38088632e4cb782d83d50a081d0c2102701dcc9cc1f71253054bcce32ee0299428006f7580fe2b3dbd5b2a154b01b79c6e1fd793069859b8d267e6
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
@@ -434,7 +423,6 @@ KTV热歌,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=f577a99d7ebfb46210be
 农业,#genre#
 NewTV农业致富,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=ae97036d0d8a7ab12ae0d74fec0435c533778603a4f303a466beaf6bd010549ce280c1c1868217b1106023499e82c2971d63c923bd7c275ea909a4da9ffe8560
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
-亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
 河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 银河农业致富,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=23c0e43410806ad258c387a20a296faca3830ba2b82c17d8e2a13354ac2ab1ec88915b8d44943ed9ed7543bf16c863bee919732580c1e034eba0bddfecccd770
 
@@ -466,7 +454,6 @@ NewTV怡伴健康,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=c06bd17384ea
 无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
-无锡生活,https://stream.thmz.com/wxtv4/playlist.m3u8
 福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
@@ -528,7 +515,6 @@ NewTV精品综合,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=1d63893a1160
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 浙江钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-浙江钱江频道,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 湖州公共民生,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
@@ -544,7 +530,6 @@ NewTV精品综合,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=1d63893a1160
 荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
-营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
@@ -552,7 +537,6 @@ NewTV精品综合,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=1d63893a1160
 邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 银河掼蛋频道,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=473881b14111435f40d89b05e57280e63fdf32936b869770b145d41d7c041c109eca3a3c6c06ff1c90fd32223aba0aad4d646aaab34883c2d60e416ffcd9cd3b
 银河精品综合,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=ac96e1fdc83577ca5bc6105aa660d18a51aeff179c826559b87ea8ec82d6396c0a3d6e5f886c930470688a0d86f19acca270d185ee94f487253afd39a98143e2
 长子综合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
@@ -775,7 +759,6 @@ NewTV精品萌宠,http://votv.vip:18080/00xx/TVOD/channelPlay.php?k=4faf5c7071a8
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
 浙江钱江,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-浙江钱江,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 湖南张家界天门山西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
 湖南张家界宝峰湖,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
 湖南张家界御笔峰,https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
