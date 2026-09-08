@@ -55,6 +55,10 @@ CCTV16,http://gmxw.7766.org:808/hls/169/index.m3u8$!
 CCTV17,http://139.224.111.181:3000/673168256$!
 CCTV17,http://124.77.202.8:49155/673168256$!
 CCTV17,http://39.107.95.182:3000/673168256$!
+CCTV+ 国际频道1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8$!
+CCTV+ 国际频道2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8$!
+CCTV+ 国际频道3,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL3.smil/playlist.m3u8$!
+CCTV+ 国际频道4,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL4.smil/playlist.m3u8$!
 中央新影-中学生,http://39.107.95.182:3000/708869532$!
 中央新影-中学生,http://124.77.202.8:49155/708869532$!
 中央新影-中学生,http://139.224.111.181:3000/708869532$!
@@ -102,6 +106,7 @@ CCTV17,http://39.107.95.182:3000/673168256$!
 江西卫视,http://39.107.95.182:3000/783847495$!
 江西卫视,http://124.77.202.8:49155/783847495$!
 江西卫视,http://139.224.111.181:3000/783847495$!
+河北卫视,https://event.pull.hebtv.com/live/live101.m3u8$!
 河南卫视,http://39.107.95.182:3000/790187291$!
 河南卫视,http://124.77.202.8:49155/790187291$!
 河南卫视,http://139.224.111.181:3000/790187291$!
@@ -113,6 +118,7 @@ CCTV17,http://39.107.95.182:3000/673168256$!
 湖北卫视,http://39.107.95.182:3000/947472496$!
 湖北卫视,http://124.77.202.8:49155/947472496$!
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$!
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$!
 甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8$!
 辽宁卫视,http://139.224.111.181:3000/630291707$!
 辽宁卫视,http://124.77.202.8:49155/630291707$!
@@ -151,6 +157,7 @@ CHC影迷电影,http://139.224.111.181:3000/952383261$!
 功夫电影,https://live.metshop.top/huya/11352941$!
 古天乐电影,https://live.metshop.top/huya/29982675$!
 周星驰电影,https://live.metshop.top/huya/11342412$!
+哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8$!
 强森电影,https://live.metshop.top/huya/21059581$!
 成龙电影,https://live.metshop.top/huya/11342386$!
 李连杰电影,https://live.metshop.top/huya/11342390$!
@@ -186,6 +193,7 @@ CHC影迷电影,http://139.224.111.181:3000/952383261$!
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8$!
 
 其他/新闻资讯,#genre#
+CGTN 英语新闻,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8$!
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8$!
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed$!
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8$!
@@ -193,9 +201,11 @@ CHC影迷电影,http://139.224.111.181:3000/952383261$!
 中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$!
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8$!
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8$!
+兰州新闻综合,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8$!
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8$!
 兵团八师石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd$!
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8$!
+哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594$!
 嘉兴新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8$!
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8$!
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0$!
@@ -213,6 +223,7 @@ CHC影迷电影,http://139.224.111.181:3000/952383261$!
 无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8$!
 旺苍新闻综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8$!
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8$!
+楚雄新闻,http://hwapi.yntv.net/ew265l/848y54.m3u8$!
 永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8$!
 江津新闻,http://222.179.155.21:1935/ch1.m3u8?zzhongqd$!
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8$!
@@ -226,6 +237,7 @@ CHC影迷电影,http://139.224.111.181:3000/952383261$!
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8$!
 滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8$!
 烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8$!
+白城新闻综合,https://stream2.jlntv.cn/baicheng1/sd/live.m3u8$!
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8$!
 苍南新闻综合,https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8$!
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8$!
@@ -236,6 +248,7 @@ CHC影迷电影,http://139.224.111.181:3000/952383261$!
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd$!
 诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8$!
 象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8$!
+赤峰新闻综合,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8$!
 邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8$!
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8$!
 雅安新闻综合,https://play.yunxya.com/channellive/xinwen.m3u8$!
@@ -243,6 +256,7 @@ CHC影迷电影,http://139.224.111.181:3000/952383261$!
 龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8$!
 
 其他/纪录探索,#genre#
+CGTN 纪录频道,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8$!
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8$!
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$!
 
@@ -349,6 +363,7 @@ CGTN-西语,http://39.107.95.182:3000/609006450$!
 余姚综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8$!
 余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8$!
 余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8$!
+兰州文旅,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8$!
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8$!
 刑事侦缉档案,https://live.metshop.top/huya/29465856$!
 创世纪,https://live.metshop.top/huya/29465852$!
@@ -364,6 +379,7 @@ CGTN-西语,http://39.107.95.182:3000/609006450$!
 四川峨眉山普贤菩萨铜像,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8$!
 四川峨眉山远眺万佛顶,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8$!
 四川峨眉山远眺贡嘎雪山,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8$!
+四平电视台,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598$!
 天涯石,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8$!
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd$!
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8$!
@@ -418,6 +434,17 @@ CGTN-西语,http://39.107.95.182:3000/609006450$!
 洗冤录,https://live.metshop.top/huya/29465851$!
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8$!
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$!
+浙江广电-01,https://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$!
+浙江广电-02,https://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8$!
+浙江广电-03,https://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8$!
+浙江广电-04,https://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8$!
+浙江广电-05,https://ali-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8$!
+浙江广电-06,https://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8$!
+浙江广电-07,https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8$!
+浙江广电-08,https://ali-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8$!
+浙江广电-09,https://ali-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8$!
+浙江广电-10,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8$!
+浙江广电-12,https://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8$!
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$!
 浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed$!
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8$!
