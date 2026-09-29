@@ -1152,3 +1152,40 @@
 2026-09-29T08:58:07+00:00 INFO    [run=79e76ce40131440398667cf5f12c9c4d phase=statistics event=statistics.finished] 频道统计完成：测试 18，有效 1
 2026-09-29T08:58:07+00:00 INFO    [run=79e76ce40131440398667cf5f12c9c4d phase=complete event=run.summary] 更新摘要
 2026-09-29T08:58:07+00:00 INFO    [run=79e76ce40131440398667cf5f12c9c4d phase=complete event=run.finished] 更新完成！总耗时：00:29
+2026-09-29T09:04:30+00:00 INFO    [event=application.started] IPTV-API 版本: 3.0.0 (构建时间: 2026-08-07 11:45:59)
+2026-09-29T09:04:30+00:00 INFO    [phase=prepare event=network.ipv6.checking] 🛜 正在检查当前网络是否支持IPv6...
+2026-09-29T09:04:30+00:00 WARNING [phase=prepare event=network.ipv6.unsupported] 当前网络不支持IPv6，别担心，IPv6的结果会被保存下来
+2026-09-29T09:04:30+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=prepare event=run.started] 性能模式: auto → balance，可用资源: 4.0 CPU / 15.61 GB，并发: 测速 8、媒体探测 2、源抓取 8
+2026-09-29T09:04:30+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=prepare event=channels.catalog_loaded] 频道目录已加载：白名单 0，黑名单 2，台标 21
+2026-09-29T09:04:30+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=fetch event=sources.subscribe.summary] 订阅源数量：2，订阅白名单数量：0，停用地址数量：0，有效总数量：2
+2026-09-29T09:04:30+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=fetch event=progress.started] 正在进行获取订阅源  0/2
+2026-09-29T09:04:30+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=fetch event=sources.epg.summary] EPG源数量：1，EPG白名单数量：0，停用地址数量：0，有效总数量：1
+2026-09-29T09:04:30+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=fetch event=progress.started] 正在进行获取EPG源  0/1
+2026-09-29T09:04:32+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=fetch event=progress.updated] 正在进行获取订阅源  1/2 (50%)  剩余 1
+2026-09-29T09:04:32+00:00 WARNING [run=c6fed93d204e4f6c81609f67758b957f phase=fetch event=request.retrying] 🔄 请求http://epg.51zmt.top:8000/e.xml失败，正在进行第1次重试...
+2026-09-29T09:04:32+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=fetch event=progress.updated] 正在进行获取订阅源  2/2 (100%)  剩余 0
+2026-09-29T09:04:32+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=fetch event=sources.subscribe.finished] 订阅源: ✅ 有效地址数量：2，⛔ 停用地址数量：0
+2026-09-29T09:04:32+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=fetch event=progress.finished] 正在进行获取订阅源  2/2  未匹配 591
+2026-09-29T09:04:33+00:00 ERROR   [run=c6fed93d204e4f6c81609f67758b957f phase=fetch event=source.parse_failed] http://epg.51zmt.top:8000/e.xml 出错：❌ 请求http://epg.51zmt.top:8000/e.xml失败，已达到最大重试次数
+2026-09-29T09:04:33+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=fetch event=progress.updated] 正在进行获取EPG源  1/1 (100%)  剩余 0
+2026-09-29T09:04:33+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=fetch event=sources.epg.finished] EPG源: ✅ 有效地址数量：1，⛔ 停用地址数量：0
+2026-09-29T09:04:33+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=fetch event=progress.finished] 正在进行获取EPG源  1/1  匹配 0 个频道
+2026-09-29T09:04:38+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=aggregate event=channels.aggregated] 频道数据聚合完成：18 个频道，36 个接口（IPv4 36 / IPv6 0）
+2026-09-29T09:04:38+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=speed_test event=speed_test.planned] 总接口数量: 36, 需要进行测速的接口数量: 36
+2026-09-29T09:04:38+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=speed_test event=progress.started] 测速  0/36
+2026-09-29T09:04:39+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=speed_test event=progress.updated] 测速  1/36 (2%)  有效 0  失败 1  CCTV-3 综艺
+2026-09-29T09:04:41+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=speed_test event=progress.updated] 测速  5/36 (13%)  有效 0  失败 5  CCTV-1 综合
+2026-09-29T09:04:42+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=speed_test event=progress.updated] 测速  9/36 (25%)  有效 0  失败 9  CCTV-5+ 体育赛事
+2026-09-29T09:04:47+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=speed_test event=progress.updated] 测速  13/36 (36%)  有效 0  失败 13  CCTV-10 科教
+2026-09-29T09:04:49+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=speed_test event=progress.updated] 测速  17/36 (47%)  有效 0  失败 17  CCTV-5 体育
+2026-09-29T09:04:52+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=speed_test event=progress.updated] 测速  21/36 (58%)  有效 0  失败 21  CCTV-13 新闻
+2026-09-29T09:04:54+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=speed_test event=progress.updated] 测速  25/36 (69%)  有效 1  失败 24  CCTV-16 奥林匹克
+2026-09-29T09:04:56+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=speed_test event=progress.updated] 测速  29/36 (80%)  有效 1  失败 28  CCTV-13 新闻
+2026-09-29T09:04:59+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=speed_test event=progress.updated] 测速  33/36 (91%)  有效 2  失败 31  CCTV-16 奥林匹克
+2026-09-29T09:05:05+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=speed_test event=progress.updated] 测速  36/36 (100%)  有效 2  失败 34  CCTV-17 农业农村
+2026-09-29T09:05:05+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=speed_test event=speed_test.artifacts_written] 测速明细已写入 output/log/speed_test.log，有效结果已写入 output/log/result.log
+2026-09-29T09:05:05+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=speed_test event=progress.finished] 测速  36/36  有效 2  失败 34
+2026-09-29T09:05:05+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=output event=output.written] 结果文件生成完成：更新 3 个文件
+2026-09-29T09:05:05+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=statistics event=statistics.finished] 频道统计完成：测试 36，有效 2
+2026-09-29T09:05:05+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=complete event=run.summary] 更新摘要
+2026-09-29T09:05:05+00:00 INFO    [run=c6fed93d204e4f6c81609f67758b957f phase=complete event=run.finished] 更新完成！总耗时：00:34
